@@ -30,7 +30,7 @@ spec:
           env:
             # Use secret in real usage
             - name: MYSQL_USER
-              value: deekshithsn
+              value: balaji 
             - name: MYSQL_PASSWORD
               value: password
             - name: MYSQL_ROOT_PASSWORD
