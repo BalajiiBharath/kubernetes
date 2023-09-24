@@ -15,7 +15,7 @@ spec:
          - 'bash'
          - '-c'
          - |
-           git clone https://github.com/BalajiiBharath/Kubernetes-All-Notes.git
+           git clone https://github.com/DeekshithSN/kubernetes.git
            mysql -h mysql -u root -padmin -e 'CREATE DATABASE IF NOT EXISTS test';
            mysql -h mysql -u root -padmin test < kubernetes/datadump/mysql.sql
            sleep 20
